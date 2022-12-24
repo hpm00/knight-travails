@@ -21,12 +21,14 @@ class Knight
   end
 
   def children 
+    
   end
 
-  def knight_moves
+  def knight_moves(start, end)
   end
 
   def display_path
   end 
   
 end 
+
